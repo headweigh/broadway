@@ -1,0 +1,54 @@
+html {
+  text-align: center;
+  font-family: helvetica;
+}
+
+a {
+  color: white;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#topbar {
+  background-image: url("/Users/jenniferpage/Documents/projects/Broadway/resources/images/the-flatiron-building.png");
+  background-size: auto-auto;
+  background-repeat: none;
+}
+
+nav {
+  color: white;
+  font-size: 18px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  line-height: 30px;
+}
+
+footer {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+  text-align: left;
+}
+
+#work {
+  background-image: url("/Users/jenniferpage/Documents/projects/Broadway/resources/images/the-flatiron-building.png");
+}
